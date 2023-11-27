@@ -1,9 +1,18 @@
-[submodule "climberAPI"]
-	path = climberAPI
-	url = git@github.com:xmravec3/ClimberAPI.git
-[submodule "mysqldb"]
-	path = mysqldb
-	url = git@github.com:xmravec3/DockerMySQL.git
-[submodule "climberWeb"]
-	path = climberWeb
+#[submodule "climberAPI"]
+#	path = climberAPI
+#	url = git@github.com:xmravec3/ClimberAPI.git
+#[submodule "mysqldb"]
+#	path = mysqldb
+#	url = git@github.com:xmravec3/DockerMySQL.git
+#[submodule "climberWeb"]
+#	path = climberWeb
+#	url = git@github.com:xmravec3/ClimberWEB.git
+[submodule "DockerDB"]
+	path = DockerDB
+	url = git@github.com:xmravec3/DockerDB.git
+[submodule "ClimberWEB"]
+	path = ClimberWEB
 	url = git@github.com:xmravec3/ClimberWEB.git
+[submodule "ClimberAPI"]
+	path = ClimberAPI
+	url = git@github.com:xmravec3/ClimberAPI.git

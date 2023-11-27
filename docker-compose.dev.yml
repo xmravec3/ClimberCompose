@@ -4,7 +4,7 @@ services:
     networks:
       - bridge-network
     build:
-      context: ./mysqldb
+      context: ./DockerDB
     ports:
       - "3307:3306"
     environment:
